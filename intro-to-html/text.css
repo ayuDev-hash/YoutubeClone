@@ -1,0 +1,51 @@
+p{
+  font-family: Arial;
+  margin-top: 0px;
+  margin-top: 0px;
+}
+.video-title{
+  font-size: 18px;
+  font-weight: bold;
+  width: 280px;
+  line-height: 24px;
+  margin-bottom: 5px;
+}
+.video-stats{
+  color: #606060;
+  font-size: 14px;
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+.video-author{
+  color: #606060;
+  font-size: 14px;
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+.video-discription{
+  color: #606060;
+  font-size: 14px;
+  font-weight: 400;
+  width: 280px;
+  line-height: 22px;
+  margin-bottom: 100px;
+}
+.video-link{
+  background-color: rgb(227, 65, 64);
+  color: white;
+  font-family: Arial;
+  text-align: center;
+  padding-top: 17px;
+  padding-bottom: 17px;
+  padding-left: 30px;
+  padding-right: 30px;
+  vertical-align: bottom;
+  margin-bottom: 50px;
+}
+.shop-link{
+  cursor: pointer;
+}
+
+.shop-link:hover{
+text-decoration: underline;
+}

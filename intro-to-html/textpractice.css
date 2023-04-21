@@ -1,0 +1,76 @@
+.tahoma-font{
+  font-family: TAHOMA;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 45px;
+}
+.deal{
+  font-family: Arial;
+  font-size: 26px;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+.sales{
+  font-family:Arial;
+  color: rgb(213, 36, 0);
+  font-weight:bold;
+  font-style:italic;
+  margin-top:0px;
+  margin-bottom: 45px;
+}
+.html-course{
+  font-family: Verdana;
+  font-size: 20px;
+  font-weight:bold;
+  margin-bottom: 5px;
+}
+.pro{
+  font-family: Verdana;
+  color: rgba(47, 42, 42, 0.763);
+  margin-top: 0px;
+  margin-bottom: 19px;
+}
+.discription{
+  font-family: Verdana;
+  color: rgb(74, 71, 71);
+  font-size: 14px;
+  width: 280px;
+  font-weight: 700;
+  line-height: 21px;
+  margin-bottom: 19px;
+}
+.button1{
+  background-color: green;
+  color: white;
+  font-family: Verdana;
+  padding-top: 6px;
+  padding-bottom: 7px;
+  padding-left: 14px;
+  padding-right: 14px;
+  border-radius: 6px;
+  border: none;
+  cursor:pointer;
+}
+.shopping{
+  font-family: Arial;
+  font-size: 26px;
+  text-align:center;
+  font-weight:bold;
+  margin-bottom:16px;
+}
+.para{
+  font-family: Arial;
+  font-size: 15px;
+  font-weight:bold;
+  text-align: center;
+  margin-top:0px;
+  margin-bottom: 20px;
+}
+.learn{
+  font-family: Arial;
+  text-align:center;
+  color:rgb(51, 137, 203)
+}
+.learn:hover{
+  cursor: pointer;
+}

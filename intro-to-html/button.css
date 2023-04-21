@@ -1,0 +1,92 @@
+.uber-button{
+  background-color: black;
+  color: white;
+  border:none;
+  height: 40px;
+  width: 110px;
+  cursor: pointer;
+}
+.uber-text{
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.Amazon-button{
+  background-color: rgb(255, 216, 20);
+  height: 40px;
+  width: 180px;
+  border-radius: 18px;
+  border: none;
+  cursor: pointer;
+}
+.amazon-text{
+  color: black;
+  font-weight: bold;
+}
+
+.signup-button{
+  background-color: rgb(45, 164, 79);
+  height: 36px;
+  width: 95px;
+  color: white;
+  font-weight: bold;
+  font-size: 16px;
+  border: none;
+  border-radius: 7px;
+  cursor: pointer;
+}
+
+.bootstrap-button{
+  background-color: rgb(121, 82, 179);
+  height: 40px;
+  width: 110px;
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+  border-radius: 4px;
+  border-width: 1px;
+  margin-right: 8px;
+  cursor: pointer;
+}
+.download-button{
+  background-color: white;
+  height: 40px;
+  width: 110px;
+  color: rgb(41, 43, 45);
+  font-weight: bold;
+  font-size: 15px;
+  border-radius: 4px;
+  border-width: 1px;
+  margin-right: 8px;
+  cursor: pointer;
+
+}
+.linkdin-button{
+background-color:rgb(10, 102, 194);
+color:white;
+font-weight:bold;
+font-size:15px;
+padding-top: 12px;
+padding-bottom: 12px;
+padding-left: 18px;
+padding-right: 18px;
+border:none;
+border-radius:18px;
+margin-right: 12px;
+cursor: pointer;
+}
+.save-button{
+color:rgb(2, 2, 100);
+font-weight: bold;
+font-size: 15px;
+background-color:white;
+padding-top: 12px;
+padding-bottom: 12px;
+padding-left: 22px;
+padding-right: 22px;
+border-width: 1px;
+border-color: rgb(9, 9, 112);
+border-radius: 20px;
+cursor:pointer;
+
+}
